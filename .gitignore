@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+
+# Editor and IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Go
+*.test
+*.prof
+coverage.out
+
+# Logs and temporary files
+*.log
+*.tmp
+tmp/
