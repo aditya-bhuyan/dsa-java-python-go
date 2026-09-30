@@ -1,0 +1,62 @@
+<!-- _sidebar.md — Docsify left-nav panel -->
+
+* **🚀 Start Here**
+  * [Home](README.md)
+  * [12-Week Progress](PROGRESS.md)
+  * [Full Roadmap](ROADMAP.md)
+
+* **📚 Concepts**
+  * [All Topics](concepts/README.md)
+  * [Arrays](concepts/arrays.md)
+  * [Strings](concepts/strings.md)
+  * [Linked List](concepts/linked-list.md)
+  * [Stack](concepts/stack.md)
+  * [Queue](concepts/queue.md)
+  * [HashMap](concepts/hashmap.md)
+  * [HashSet](concepts/hashset.md)
+  * [Tree](concepts/tree.md)
+  * [Binary Tree](concepts/binary-tree.md)
+  * [BST](concepts/bst.md)
+  * [Heap](concepts/heap.md)
+  * [Priority Queue](concepts/priority-queue.md)
+  * [Graph](concepts/graph.md)
+  * [Binary Search](concepts/binary-search.md)
+  * [Sliding Window](concepts/sliding-window.md)
+  * [Two Pointers](concepts/two-pointers.md)
+  * [Greedy](concepts/greedy.md)
+  * [Recursion](concepts/recursion.md)
+  * [Backtracking](concepts/backtracking.md)
+  * [Dynamic Programming](concepts/dynamic-programming.md)
+  * [Bit Manipulation](concepts/bit-manipulation.md)
+  * [Union Find](concepts/union-find.md)
+  * [Trie](concepts/trie.md)
+  * [Sorting](concepts/sorting.md)
+  * [Segment Tree](concepts/segment-tree.md)
+  * [Fenwick Tree](concepts/fenwick-tree.md)
+  * [Divide & Conquer](concepts/divide-and-conquer.md)
+
+* **💻 Problems**
+  * [All Problems](problems/README.md)
+  * [W1 — Arrays](problems/arrays/README.md)
+  * [W2 — Strings](problems/strings/README.md)
+  * [W3 — HashMap & Set](problems/hashmap-set/README.md)
+  * [W4 — Linked List](problems/linked-list/README.md)
+  * [W5 — Stack & Queue](problems/stack-queue/README.md)
+  * [W6 — Trees](problems/trees/README.md)
+  * [W7 — Binary Search](problems/binary-search/README.md)
+  * [W8 — Graphs](problems/graphs/README.md)
+  * [W9 — Sliding Window](problems/sliding-window/README.md)
+  * [W10 — Dynamic Programming](problems/dp/README.md)
+  * [W11 — Greedy](problems/greedy/README.md)
+
+* **📋 Cheatsheets**
+  * [Overview](cheatsheets/README.md)
+  * [Java](cheatsheets/java.md)
+  * [Python](cheatsheets/python.md)
+  * [Go](cheatsheets/go.md)
+  * [Syntax Comparison](cheatsheets/syntax-comparison.md)
+  * [Data Structures](cheatsheets/data-structures.md)
+
+* **🎯 Interview Prep**
+  * [Overview](interview-notes/README.md)
+  * [Interview Notes](interview-notes/notes.md)
