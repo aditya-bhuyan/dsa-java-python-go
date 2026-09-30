@@ -26,4 +26,3 @@
   * [Syntax Comparison](cheatsheets/syntax-comparison.md)
   * [Data Structures](cheatsheets/data-structures.md)
 * [Interview Notes](interview-notes/notes.md)
-* [GitHub ↗](https://github.com/aditya-bhuyan/dsa-java-python-go)
