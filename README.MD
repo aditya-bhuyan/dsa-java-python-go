@@ -6,8 +6,9 @@
 ![Java](https://img.shields.io/badge/Java-21-red)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Go](https://img.shields.io/badge/Go-1.24-00ADD8)
+[![Live Site](https://img.shields.io/badge/Live%20Site-netlify-00C7B7?logo=netlify)](https://dsa-in-java-python-go.netlify.app)
 
-**Repo:** https://github.com/aditya-bhuyan/dsa-java-python-go · **Author:** [Aditya Bhuyan](https://github.com/aditya-bhuyan)
+**Repo:** https://github.com/aditya-bhuyan/dsa-java-python-go · **Live:** https://dsa-in-java-python-go.netlify.app · **Author:** [Aditya Bhuyan](https://github.com/aditya-bhuyan)
 
 ---
 
